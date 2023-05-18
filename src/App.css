@@ -1,0 +1,18 @@
+#root {
+	text-align: center;
+	background-color: #121213;
+	height: 100vh;
+	padding: 5rem;
+}
+
+.container {
+	display: flex;
+	flex-direction: column;
+	gap: 2rem;
+}
+
+.container__character {
+	display: flex;
+	gap: 2rem;
+	justify-content: center;
+}
